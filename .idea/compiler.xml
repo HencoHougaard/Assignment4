@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Composition" />
+        <module name="Encapsulation" />
+        <module name="Encaptulation" />
+        <module name="Inheritance" />
+        <module name="Polymorphism" />
+        <module name="Q3_Obey" />
+        <module name="Q3_Violate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Assignment4" target="1.5" />
+      <module name="Composition" target="1.5" />
+      <module name="Encapsulation" target="1.5" />
+      <module name="Encaptulation" target="1.5" />
+      <module name="Inheritance" target="1.5" />
+      <module name="Polymorphism" target="1.5" />
+      <module name="Principles" target="1.5" />
+      <module name="Q3_Obey" target="1.5" />
+      <module name="Q3_Violate" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
